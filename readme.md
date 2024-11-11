@@ -20,7 +20,7 @@
     - [X] Conhecendo e configurando o projeto
     - [X] Separando as rotas
     - [X] Conhecendo middlewares
-    - [ ] Criando as rotas de instrutores
+    - [X] Criando as rotas de instrutores
     - [ ] Estilizando estrutura e menu
     - [ ] Corrigindo alinhamento dos itens do menu
     - [ ] Estilizando menu hover
