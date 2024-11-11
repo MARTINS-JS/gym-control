@@ -17,7 +17,7 @@
 **Índice**
 
   - [ ] **Estrutura HTML e CSS do projeto**
-    - [ ] Conhecendo e configurando o projeto
+    - [X] Conhecendo e configurando o projeto
     - [ ] Separando as rotas
     - [ ] Conhecendo middlewares
     - [ ] Criando as rotas de instrutores
