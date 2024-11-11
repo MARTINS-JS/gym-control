@@ -18,7 +18,7 @@
 
   - [ ] **Estrutura HTML e CSS do projeto**
     - [X] Conhecendo e configurando o projeto
-    - [ ] Separando as rotas
+    - [X] Separando as rotas
     - [ ] Conhecendo middlewares
     - [ ] Criando as rotas de instrutores
     - [ ] Estilizando estrutura e menu
