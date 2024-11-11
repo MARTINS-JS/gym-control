@@ -21,7 +21,7 @@
     - [X] Separando as rotas
     - [X] Conhecendo middlewares
     - [X] Criando as rotas de instrutores
-    - [ ] Estilizando estrutura e menu
+    - [X] Estilizando estrutura e menu
     - [ ] Corrigindo alinhamento dos itens do menu
     - [ ] Estilizando menu hover
     - [ ] Aprofundando no CSS Transition
