@@ -25,7 +25,7 @@
     - [X] Corrigindo alinhamento dos itens do menu
     - [X] Estilizando menu hover
     - [X] Aprofundando no CSS Transition
-    - [ ] [**Desafio 4-1**](https://github.com/rocketseat-education/bootcamp-launchbase-desafios-04/blob/master/desafios/04-1-header.md)
+    - [X] [**Desafio 4-1**](https://github.com/rocketseat-education/bootcamp-launchbase-desafios-04/blob/master/desafios/04-1-header.md)
     - [ ] Recarregando a página automaticamente com browser sync
     - [ ] Criando o container de conteúdo
     - [ ] Trabalhando com background-image no CSS
