@@ -36,14 +36,19 @@ header {
   text-decoration: none;
 }
 
-.links a:hover::after {
+.links a::after {
   background: var(--color-03);
   bottom: -4px;
   content: "";
   height: 2px;
   left: 0;
   position: absolute;
+  width: 0;
+}
+
+.links a:hover::after {
   width: 100%;
+  transition: width 700ms ease-in-out;
 }
 
 .links a.active {
