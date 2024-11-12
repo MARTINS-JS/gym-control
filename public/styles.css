@@ -8,8 +8,11 @@
 }
 
 :root {
-  --bg-body: #7159c1;
-  --bg-header: #fff;
+  --bg-body: var(--color-03);
+  --bg-header: var(--color-01);
+  --color-01: #fff;
+  --color-02: #777;
+  --color-03: #7159c1;
 }
 
 body {
@@ -28,7 +31,24 @@ header {
 }
 
 .links a {
+  color: var(--color-02);
+  position: relative;
   text-decoration: none;
+}
+
+.links a:hover::after {
+  background: var(--color-03);
+  bottom: -4px;
+  content: "";
+  height: 2px;
+  left: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.links a.active {
+  color: var(--color-03);
+  font-weight: 500;
 }
 
 .links a + a  {
