@@ -23,7 +23,7 @@
     - [X] Criando as rotas de instrutores
     - [X] Estilizando estrutura e menu
     - [X] Corrigindo alinhamento dos itens do menu
-    - [ ] Estilizando menu hover
+    - [X] Estilizando menu hover
     - [ ] Aprofundando no CSS Transition
     - [ ] [**Desafio 4-1**](https://github.com/rocketseat-education/bootcamp-launchbase-desafios-04/blob/master/desafios/04-1-header.md)
     - [ ] Recarregando a página automaticamente com browser sync
