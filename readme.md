@@ -26,7 +26,7 @@
     - [X] Estilizando menu hover
     - [X] Aprofundando no CSS Transition
     - [X] [**Desafio 4-1**](https://github.com/rocketseat-education/bootcamp-launchbase-desafios-04/blob/master/desafios/04-1-header.md)
-    - [ ] Recarregando a página automaticamente com browser sync
+    - [X] Recarregando a página automaticamente com browser sync
     - [ ] Criando o container de conteúdo
     - [ ] Trabalhando com background-image no CSS
     - [ ] Conhecendo o CSS Box Shadow
