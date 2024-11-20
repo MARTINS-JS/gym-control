@@ -59,3 +59,10 @@ header {
 .links a + a  {
   margin-left: 32px;
 }
+
+.card {
+  background: var(--color-01);
+  margin: 45px auto;
+  height: 400px;
+  width: 800px;
+}
