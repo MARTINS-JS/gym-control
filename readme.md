@@ -27,7 +27,7 @@
     - [X] Aprofundando no CSS Transition
     - [X] [**Desafio 4-1**](https://github.com/rocketseat-education/bootcamp-launchbase-desafios-04/blob/master/desafios/04-1-header.md)
     - [X] Recarregando a página automaticamente com browser sync
-    - [ ] Criando o container de conteúdo
+    - [X] Criando o container de conteúdo
     - [ ] Trabalhando com background-image no CSS
     - [ ] Conhecendo o CSS Box Shadow
     - [ ] Animando com CSS
